@@ -1,5 +1,5 @@
 # Sparse-Engine
-A performance native voxel simulation and rendering engine enabling 1024+ chunk horizons and real-time distant physics.
+A performance native voxel simulation and rendering engine.
 
 This page is reserved for **Reporting bugs, issues and sharing suggestions**.
 
